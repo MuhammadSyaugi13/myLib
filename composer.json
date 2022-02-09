@@ -1,0 +1,17 @@
+{
+  "name": "mosyq/mylib",
+  "description": "percobaan pembuatan library",
+  "type": "library",
+  "authors": [
+    {
+      "name": "MOSYQ",
+      "email": "muhammadsyaugi13@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ogi\\Belajar\\": "src/"
+    }
+  }
+}
