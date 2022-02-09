@@ -5,9 +5,9 @@ namespace Ogi\Belajar;
 class Costumer {
 
     
-    private string $name;
+    private $name;
 
-    public function __construct(String $name)
+    public function __construct($name)
     {
         $this->name = $name;
     }
