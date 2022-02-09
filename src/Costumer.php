@@ -5,7 +5,7 @@ namespace Ogi\Belajar;
 class Costumer {
 
     
-    private $name;
+    private $name = "ogi";
 
     public function __construct($name)
     {
